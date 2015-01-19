@@ -1,10 +1,11 @@
 morningstar
 ==========
 
-Scrapy spider which can illustrates how one could scrape financial statement data from
+Scrapy spider which can illustrates how one could go about scraping financial statement data from
 morningstar.com.
 
-Currently, it scraps very basic cashflow and income statement items.
+Currently, this example only illustrates the scraping of a few 
+basic cashflow and income statement items.
 
 !!WARNING!!
 ------
