@@ -24,7 +24,7 @@ To install dependencies:
 pip install -r requirements.txt
 ```
 
-Example Usage
+Example usage
 -------------
 
 fundamentals/example has two example scripts illustrating live usage:
