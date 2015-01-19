@@ -33,3 +33,7 @@ fundamentals/example/run_incomestatement_spider.sh
 ```
 
 The example scripts, if run, would produce output json files of the scraped pages in the dir fundamentals/example/tmp/.
+
+License
+-------
+See LICENSE.md for lincense info. 
