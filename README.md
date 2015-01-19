@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 fundamentals/example has two example scripts illustrating live usage:
 
-(!!WARNING!! running these scripts will launch the spider live on morningstar.com)
+!!WARNING!! running these scripts will launch the spider live on morningstar.com
 
 ```sh
 fundamentals/example/run_cashflow_spider.sh
