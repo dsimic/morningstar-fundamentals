@@ -23,12 +23,10 @@ To install dependencies:
 pip install -r requirements.txt
 ```
 
-To run the example spider
+fundamentals/example has two example scripts of live usage:
 
 ```sh
-cd fundamentals/example
-chmod +x run_*.sh
-./run_cashflow_spider.sh
+fundamentals/example/run_cashflow_spider.sh
 ./run_incomestatement_spider.sh
 ```
 
