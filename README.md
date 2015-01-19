@@ -24,6 +24,9 @@ To install dependencies:
 pip install -r requirements.txt
 ```
 
+Example Usage
+-------------
+
 fundamentals/example has two example scripts illustrating live usage:
 
 !!WARNING!! running these scripts will launch the spider live on morningstar.com
