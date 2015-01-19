@@ -6,7 +6,7 @@ morningstar.com.
 
 Currently, it scraps very basic cashflow and income statement items.
 
-WARNING
+!!WARNING!!
 ------
 You should not scrape any website that you do not own unless you have gotten
 consent from the webmaster of the site. Using these scripts, can and will cause
