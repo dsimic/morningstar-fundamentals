@@ -23,11 +23,12 @@ To install dependencies:
 pip install -r requirements.txt
 ```
 
-fundamentals/example has two example scripts of live usage:
+fundamentals/example has two example scripts illustrating live usage:
+(WARNING running these scripts will launch the spider live on morningstar.com)
 
 ```sh
 fundamentals/example/run_cashflow_spider.sh
-./run_incomestatement_spider.sh
+fundamentals/example/run_incomestatement_spider.sh
 ```
 
-This will produce output json files of the scraped pages in fundamentals/example/tmp/.
+The example scripts, if run, would produce output json files of the scraped pages in the dir fundamentals/example/tmp/.
